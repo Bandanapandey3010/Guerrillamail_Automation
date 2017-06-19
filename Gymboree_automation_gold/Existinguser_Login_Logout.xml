@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Registereduser_Login_flow">
+  <test name="Existinguser_Login_Logout">
+    <classes>
+      <class name="gymboree_pages.Existinguser_Login_Logout"/>
+    </classes>
+  </test> <!-- Existinguser_Login_Logout -->
+</suite> <!-- Registereduser_Login_flow -->

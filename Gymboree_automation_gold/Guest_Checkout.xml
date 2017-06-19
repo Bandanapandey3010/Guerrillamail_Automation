@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guest_Checkout">
+  <test name="Guest_Checkout_flow">
+    <classes>
+      <class name="gymboree_pages.Guestuser_Checkout"/>
+    </classes>
+  </test> <!-- Guest_Checkout_flow -->
+</suite> <!-- Guest_Checkout -->

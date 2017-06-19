@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Guest_Checkout]">
+  <test name="Guest_Checkout_flow(failed)">
+    <classes>
+      <class name="gymboree_pages.Guestuser_Checkout">
+        <methods>
+          <include name="guestuser_checkout"/>
+        </methods>
+      </class> <!-- gymboree_pages.Guestuser_Checkout -->
+    </classes>
+  </test> <!-- Guest_Checkout_flow(failed) -->
+</suite> <!-- Failed suite [Guest_Checkout] -->

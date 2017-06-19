@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30031" started-at="2017-06-19T21:39:48Z" finished-at="2017-06-19T21:40:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30031" started-at="2017-06-19T21:39:48Z" finished-at="2017-06-19T21:40:18Z">
+      <class name="guerrillamail_flow_validation.Guerrillamail_Flow_Automation">
+        <test-method status="PASS" signature="email_automation_flow()[pri:0, instance:guerrillamail_flow_validation.Guerrillamail_Flow_Automation@1d94634]" name="email_automation_flow" duration-ms="30014" started-at="2017-06-19T14:39:48Z" finished-at="2017-06-19T14:40:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- email_automation_flow -->
+      </class> <!-- guerrillamail_flow_validation.Guerrillamail_Flow_Automation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

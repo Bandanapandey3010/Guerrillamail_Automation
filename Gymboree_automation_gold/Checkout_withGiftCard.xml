@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Checkout_withGiftCard">
+  <test name="Checkout_withGiftCard">
+    <classes>
+      <class name="gymboree_pages.Checkout_withGiftCard"/>
+    </classes>
+  </test> <!-- Checkout_withGiftCard -->
+</suite> <!-- Checkout_withGiftCard -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Footer_Links]">
+  <test name="Footer_Links(failed)">
+    <classes>
+      <class name="gymboree_pages.Footer_Links">
+        <methods>
+          <include name="footer_links"/>
+        </methods>
+      </class> <!-- gymboree_pages.Footer_Links -->
+    </classes>
+  </test> <!-- Footer_Links(failed) -->
+</suite> <!-- Failed suite [Footer_Links] -->

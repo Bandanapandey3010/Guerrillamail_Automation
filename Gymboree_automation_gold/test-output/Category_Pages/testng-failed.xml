@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Category_Pages]">
+  <test name="Category_Pages(failed)">
+    <classes>
+      <class name="gymboree_pages.Category_Pages">
+        <methods>
+          <include name="category_pages"/>
+        </methods>
+      </class> <!-- gymboree_pages.Category_Pages -->
+    </classes>
+  </test> <!-- Category_Pages(failed) -->
+</suite> <!-- Failed suite [Category_Pages] -->

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="guerrillamail_flow_validation.Guerrillamail_Flow_Automation">
+        <methods>
+          <include name="email_automation_flow"/>
+        </methods>
+      </class> <!-- guerrillamail_flow_validation.Guerrillamail_Flow_Automation -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
