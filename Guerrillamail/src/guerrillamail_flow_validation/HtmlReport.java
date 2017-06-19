@@ -21,7 +21,7 @@ public class HtmlReport {
 		fw = new FileWriter("consolidated_html_report/report.html");
 		bw = new BufferedWriter(fw);
 		bw.write("<font size =\"4\"><b>" + "<span style=color:#128CBB>"
-				+ "Consolidated Test Status Report - HigeFive"
+				+ "Consolidated Test Status Report "
 				+ "</span></b></font>");
 		bw.write("<table border='1' style='table-layout: fixed'  width=\"100%\">");
 		bw.write("<body bgcolor='#e6ffcc'>");
