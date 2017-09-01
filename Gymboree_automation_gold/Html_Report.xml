@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Html_Report">
-  <test name="Html_Report">
-    <classes>
-      <class name="gymboree_pages.HtmlReport"/>
-    </classes>
-  </test> <!-- Html_Report -->
-</suite> <!-- Html_Report -->

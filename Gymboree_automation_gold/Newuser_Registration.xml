@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Newuser_Registration">
-  <test name="Newuser_Registration">
-    <classes>
-      <class name="gymboree_pages.Newuser_Registration"/>
-    </classes>
-  </test> <!-- Newuser_Registration -->
-</suite> <!-- Newuser_Registration -->

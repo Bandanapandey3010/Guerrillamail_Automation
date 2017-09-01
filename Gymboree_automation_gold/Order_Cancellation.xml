@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Order_Cancellation">
-  <test name="Order_Cancellation">
-    <classes>
-      <class name="gymboree_pages.Order_Cancellation"/>
-    </classes>
-  </test> <!-- Order_Cancellation -->
-</suite> <!-- Order_Cancellation -->

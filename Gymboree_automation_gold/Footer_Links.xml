@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Footer_Links">
-  <test name="Footer_Links">
-    <classes>
-      <class name="gymboree_pages.Footer_Links"/>
-    </classes>
-  </test> <!-- Footer_Links -->
-</suite> <!-- Footer_Links -->
