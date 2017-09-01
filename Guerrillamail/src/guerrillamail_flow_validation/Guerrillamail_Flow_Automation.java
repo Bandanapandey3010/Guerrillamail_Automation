@@ -1,5 +1,6 @@
 package guerrillamail_flow_validation;
 
+/* Automated test for Mail E2E Flow */
 import org.testng.annotations.Test;
 
 import guerrillamail_flow_validation.HtmlReport;
